@@ -20,7 +20,7 @@ table {
 }
 
 table, td {
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
     text-align: center;
 }
@@ -67,6 +67,7 @@ h1 {
         max-width: none;
         font-size: 14px;
     }
+
 }
 
 /* Medium screens (e.g., tablets) */
